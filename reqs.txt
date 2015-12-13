@@ -1,0 +1,9 @@
+pika
+tweepy
+ipdb
+msgpack-python
+pymongo
+ujson
+djangorestframework
+django
+drf_ujson
